@@ -68,12 +68,43 @@ I'm a **Full Stack Developer** with a passion for Full-Stack Innovation. My expe
 
 ### 💻 Featured Projects
 
-| Project | Description | Links |
-| :--- | :--- | :--- |
-| **🕹️ KZ Game Hub** | Real-time multiplayer online gaming platform featuring custom lobbies. Built with Next.js, NestJS, and Socket.io. | 🚀 [Live Demo](https://kz-game-hub.vercel.app)<br/>💻 [GitHub Repo](https://github.com/krizad/kz-game-hub) |
-| **📈 YT Trend Tracker** | Monitors Views Per Hour (VPH) to identify viral videos in real-time. Built with Next.js, NestJS, and Supabase. | 🚀 [Live Demo](https://yt-trend-tracker-web.vercel.app/)<br/>💻 [GitHub Repo](https://github.com/krizad/yt-trend-tracker) |
-| **⚖️ Koom-Mai** | Offline-capable unit price comparison PWA with multi-unit support. Built with Next.js and Tailwind CSS. | 🚀 [Live Demo](https://krizad.github.io/koom-mai/)<br/>💻 [GitHub Repo](https://github.com/krizad/koom-mai) |
-| **🛡️ Insurance Sales** | Professional profile platform for insurance agents with automated workflow notifications. Built with Next.js and Prisma. | 🚀 [Live Demo](https://chanidapamtl.com) |
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🕹️ KZ Game Hub</h4>
+      <p>Real-time multiplayer online gaming platform featuring custom lobbies. Built with Next.js, NestJS, and Socket.io.</p>
+      <p>
+        <a href="https://kz-game-hub.vercel.app">🚀 Live Demo</a> &nbsp;•&nbsp; 
+        <a href="https://github.com/krizad/kz-game-hub">💻 GitHub Repo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 YT Trend Tracker</h4>
+      <p>Monitors Views Per Hour (VPH) to identify viral videos in real-time. Built with Next.js, NestJS, and Supabase.</p>
+      <p>
+        <a href="https://yt-trend-tracker-web.vercel.app/">🚀 Live Demo</a> &nbsp;•&nbsp; 
+        <a href="https://github.com/krizad/yt-trend-tracker">💻 GitHub Repo</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚖️ Koom-Mai</h4>
+      <p>Offline-capable unit price comparison PWA with multi-unit support. Built with Next.js and Tailwind CSS.</p>
+      <p>
+        <a href="https://krizad.github.io/koom-mai/">🚀 Live Demo</a> &nbsp;•&nbsp; 
+        <a href="https://github.com/krizad/koom-mai">💻 GitHub Repo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ Insurance Sales</h4>
+      <p>Professional profile platform for insurance agents with automated workflow notifications. Built with Next.js and Prisma.</p>
+      <p>
+        <a href="https://chanidapamtl.com">🚀 Live Demo</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
