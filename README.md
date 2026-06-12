@@ -12,6 +12,7 @@
 </p>
 
 <p align="center">
+  <a href="https://krizad.com"><img src="https://img.shields.io/badge/krizad.com-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/kridsada-inthason-1a35b8200"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:kridsada.inthason@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -24,6 +25,7 @@ I'm a **Full Stack Developer** with a passion for Full-Stack Innovation. My expe
 
 - 🏢 Currently working as a **Full Stack Developer** at **Sirisoft Public Company Limited**
 - 🎓 B.S. in **Computer Science** from **Chulalongkorn University**
+- 🌐 Visit my portfolio: **[krizad.com](https://krizad.com)**
 - ☁️ Specialized in **Java, Node.js, PostgreSQL**, and Cloud Architecture (**Azure/AWS**)
 - 💬 Ask me about **Microservices, Socket.io, Next.js, or System Architecture**
 - 📫 Reach me at: **[kridsada.inthason@gmail.com](mailto:kridsada.inthason@gmail.com)**
@@ -105,4 +107,13 @@ I'm a **Full Stack Developer** with a passion for Full-Stack Innovation. My expe
 ---
 <p align="center">
   <i>"Building innovative web applications for daily life"</i>
+</p>
+
+### 🐍 Contribution Activity
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krizad/krizad/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krizad/krizad/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/krizad/krizad/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
